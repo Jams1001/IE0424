@@ -1,0 +1,8 @@
+0.7
+2020.2
+Apr 18 2022
+15:53:03
+/home/jams/lab-1-compaselectrica/lab1ej3_jams/lab1ej3_jams.sim/sim_1/behav/xsim/glbl.v,1649976174,verilog,,,,glbl,,,,,,,,
+/home/jams/lab-1-compaselectrica/src/picorv32/picorv32.v,1662032465,verilog,,/home/jams/lab-1-compaselectrica/src/verilog/system.v,,picorv32;picorv32_axi;picorv32_axi_adapter;picorv32_pcpi_div;picorv32_pcpi_fast_mul;picorv32_pcpi_mul;picorv32_regs;picorv32_wb,,,,,,,,
+/home/jams/lab-1-compaselectrica/src/verilog/system.v,1662303576,verilog,,/home/jams/lab-1-compaselectrica/src/verilog/system_tb.v,,system,,,,,,,,
+/home/jams/lab-1-compaselectrica/src/verilog/system_tb.v,1662303576,verilog,,,,system_tb,,,,,,,,
